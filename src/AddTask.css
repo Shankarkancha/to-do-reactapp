@@ -1,0 +1,9 @@
+.addTask{
+    padding: 3rem 0;
+    background-color: grey;
+}
+
+.addTask input{
+    margin: 0 3rem;
+    width: 50%;
+}

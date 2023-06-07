@@ -1,0 +1,20 @@
+.taskview{
+    width: 100%;
+    margin-top: 1rem;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid rgb(59, 57, 57);
+    background-color: rgb(252, 111, 111);
+    border-radius: 10px;
+}
+
+.taskview h1{
+    padding: 0 2rem;
+}
+
+.taskview button{
+    height: 20%;
+    margin-right: 2rem;
+}
